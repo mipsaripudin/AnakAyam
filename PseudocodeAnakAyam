@@ -1,0 +1,18 @@
+Judul :
+Anak_Ayam_Turun 10
+Deklarasi :
+var ayam = interger 
+var i = interger
+var j = i 
+Algoritma :
+UserInput : “Masukkan Jumlah Anak ayam : “ 
+READ  “Anak Ayam ada : “ $ayam
+WRITE (“Anak Ayam turun” .ayam )
+FOR (i = ayam; i > 0 ; i--)
+WRITE “Anak ayam turun “ . +
+SET j = i -1;
+IF i !=1
+WRITE “Mati satu tinggal “ .j
+ELSE 
+WRITE “Mati semua tinggal Induknya”
+END
